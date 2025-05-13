@@ -95,3 +95,7 @@ export default function FetchCharacterFilesExample() {
 ## 贡献者
 贡献卡片即可加入贡献者列表，如暂未加入，请联系：qianzhang.happyfox@gmail.com
 
+## 协议
+> 协议全文参见：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
+
+
