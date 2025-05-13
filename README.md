@@ -90,7 +90,7 @@ export default function FetchCharacterFilesExample() {
 ## 授权说明
 
 所有角色卡片遵循各自附带的授权（如适用）。  
-请尊重作者署名，尊重创作者权益，竞争一切形式的侵权行为。
+请尊重作者署名，尊重创作者权益，竞争一切形式的侵权行为，竞争未经允许的商业行为。
 
 ## 贡献者
 贡献卡片即可加入贡献者列表，如暂未加入，请联系：qianzhang.happyfox@gmail.com
